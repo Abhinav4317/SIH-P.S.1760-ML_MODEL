@@ -1,0 +1,58 @@
+District,Season,Major Crops,Sowing Period Numeric,Harvesting Period Numeric
+Agar Malwa,Rabi,"Wheat, Gram, Mustard",11,3
+Alirajpur,Kharif,"Soybean, Maize, Paddy (Rice)",7,9
+Anuppur,Kharif,"Soybean, Maize, Paddy (Rice)",7,11
+Ashok Nagar,Kharif,"Soybean, Maize, Paddy (Rice)",6,9
+Balaghat,Rabi,"Wheat, Gram, Mustard",10,3
+Barwani,Kharif,"Soybean, Maize, Paddy (Rice)",7,9
+Betul,Kharif,"Soybean, Maize, Paddy (Rice)",6,9
+Bhind,Rabi,"Wheat, Gram, Mustard",10,4
+Bhopal,Rabi,"Wheat, Gram, Mustard",11,3
+Burhanpur,Rabi,"Wheat, Gram, Mustard",11,3
+Chambal,Rabi,"Wheat, Gram, Mustard",11,3
+Chhatarpur,Rabi,"Wheat, Gram, Mustard",11,4
+Chhindwara,Kharif,"Soybean, Maize, Paddy (Rice)",7,11
+Damoh,Rabi,"Wheat, Gram, Mustard",11,3
+Datia,Rabi,"Wheat, Gram, Mustard",11,3
+Dewas,Kharif,"Soybean, Maize, Paddy (Rice)",7,9
+Dhar,Kharif,"Soybean, Maize, Paddy (Rice)",6,9
+Dindori,Rabi,"Wheat, Gram, Mustard",10,3
+Guna,Rabi,"Wheat, Gram, Mustard",11,4
+Gwalior,Kharif,"Soybean, Maize, Paddy (Rice)",6,9
+Harda,Kharif,"Soybean, Maize, Paddy (Rice)",6,9
+Hoshangabad,Kharif,"Soybean, Maize, Paddy (Rice)",7,11
+Indore,Kharif,"Soybean, Maize, Paddy (Rice)",6,11
+Jabalpur,Rabi,"Wheat, Gram, Mustard",10,4
+Jhabua,Rabi,"Wheat, Gram, Mustard",11,4
+Katni,Kharif,"Soybean, Maize, Paddy (Rice)",7,9
+Khandwa,Rabi,"Wheat, Gram, Mustard",11,3
+Khargone,Rabi,"Wheat, Gram, Mustard",11,4
+Maihar,Rabi,"Wheat, Gram, Mustard",11,4
+Mandla,Kharif,"Soybean, Maize, Paddy (Rice)",7,11
+Mandsaur,Kharif,"Soybean, Maize, Paddy (Rice)",6,11
+Mauganj,Rabi,"Wheat, Gram, Mustard",11,4
+Narsinghpur,Kharif,"Soybean, Maize, Paddy (Rice)",6,11
+Neemuch,Kharif,"Soybean, Maize, Paddy (Rice)",6,11
+Niwari,Rabi,"Wheat, Gram, Mustard",11,3
+Panna,Rabi,"Wheat, Gram, Mustard",11,3
+Raisen,Kharif,"Soybean, Maize, Paddy (Rice)",6,11
+Rajgarh,Kharif,"Soybean, Maize, Paddy (Rice)",7,9
+Ratlam,Rabi,"Wheat, Gram, Mustard",11,3
+Rewa,Kharif,"Soybean, Maize, Paddy (Rice)",6,11
+Sagar,Rabi,"Wheat, Gram, Mustard",10,4
+Satna,Rabi,"Wheat, Gram, Mustard",11,3
+Sehore,Kharif,"Soybean, Maize, Paddy (Rice)",6,11
+Seoni,Kharif,"Soybean, Maize, Paddy (Rice)",6,9
+Shahdol,Kharif,"Soybean, Maize, Paddy (Rice)",7,9
+Shajapur,Rabi,"Wheat, Gram, Mustard",10,4
+Sheopur,Rabi,"Wheat, Gram, Mustard",10,3
+Shivpuri,Rabi,"Wheat, Gram, Mustard",10,3
+Sidhi,Rabi,"Wheat, Gram, Mustard",10,3
+Singrauli,Kharif,"Soybean, Maize, Paddy (Rice)",6,11
+Tikamgarh,Kharif,"Soybean, Maize, Paddy (Rice)",6,11
+Ujjain,Kharif,"Soybean, Maize, Paddy (Rice)",6,9
+Umaria,Rabi,"Wheat, Gram, Mustard",11,4
+Vidisha,Rabi,"Wheat, Gram, Mustard",11,3
+East Nimar,Rabi,Cotton,10,3
+Morena,Rabi,Wheat,11,4
+West Nimar,Rabi,Soybean,11,3
